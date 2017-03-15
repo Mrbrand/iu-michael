@@ -604,8 +604,8 @@ aside.cta-quote .panel {
 }
 .portfolio-carousel .item .project-details .project-description .btn-outline-light,
 .portfolio-carousel .item .project-details .project-description p .btn-outline-light {
-  color: #1B073D;
-  border-color: #1B073D;
+  color: white;
+  border-color: white;
 }
 .portfolio-carousel .item .device-container {
   padding: 25px;
@@ -870,6 +870,12 @@ aside.cta-quote .panel {
   margin-left: 15px;
   color: #BA4C3D;
 }
+.device-mockup .topics .topic .oneword.light li {
+  color: white;
+}
+.device-mockup .topics .topic .oneword.dark li {
+  color: #1B073D;
+}
 .device-mockup .topics .topic hr {
   margin-left: 0px;
   margin-right: 0px;
@@ -881,7 +887,7 @@ aside.cta-quote .panel {
 .device-mockup .topics .topic .description {
   border-radius: 5px;
   padding: 10px;
-  font-size: 15px;
+  font-size: 17px;
   background-color: #1B073D;
   box-shadow: 0px 0px 0px 3px rgba(0, 0, 0, 0.3);
 }
@@ -919,7 +925,7 @@ aside.cta-quote .panel {
   text-align: left;
 }
 .device-mockup .text img {
-  width: 300px;
+  width: 400px;
   clear: both;
   float: right;
   padding: 16px;
@@ -945,9 +951,6 @@ aside.cta-quote .panel {
   left: 7.345988%;
   right: 6.945988%;
 }
-.device-mockup.jasper .topics .topic .oneword li {
-  color: #b12303;
-}
 .device-mockup.jasper .topics .topic hr {
   border-color: #b12303;
 }
@@ -965,9 +968,6 @@ aside.cta-quote .panel {
   bottom: 10.477551%;
   left: 7.345988%;
   right: 6.945988%;
-}
-.device-mockup.saphire .topics .topic .oneword li {
-  color: #2f3649;
 }
 .device-mockup.saphire .topics .topic hr {
   border-color: #2f3649;
@@ -1292,8 +1292,7 @@ body.vintage .testimonials .owl-controls .owl-next {
   -moz-transition: all 0.5s;
   transition: all 0.5s;
 }
-.btn-outline-light:hover,
-.btn-outline-light:focus {
+.btn-outline-light:hover {
   color: #BA4C3D;
   background: white;
   outline: none;
@@ -1306,8 +1305,7 @@ body.vintage .testimonials .owl-controls .owl-next {
   -moz-transition: all 0.5s;
   transition: all 0.5s;
 }
-.btn-outline-dark:hover,
-.btn-outline-dark:focus {
+.btn-outline-dark:hover {
   color: white;
   background: #BA4C3D;
   border-color: #BA4C3D;

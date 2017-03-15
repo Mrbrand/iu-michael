@@ -10,18 +10,23 @@
 # backgroundImage:  Background image (you bet ;-)
 # screenImage:      Image on screen
 
-abilityName: Lebende Ideen
+abilityName: „Invisible University“-Webseiten
 description: >
-    Nichts ist so stark wie eine Idee, deren Zeit gekommen ist.
-    Nichts ist so einsam wie eine Idee, die nicht im Herzen von Menschen lebt.
-    Nichts ist so spannend wie zu erleben, wie eine Idee die Wirklichkeit umpflügt.
-    (Student: „Herr Hegel! Und was, wenn die Wirklichkeit sich nicht an Ihre Ideen hält?“ Hegel: „Um so schlimmer für die Wirklichkeit.“)
+    Du willst deine eigene IU-Webseite bauen. Und nicht nur das, sondern auch die Gestaltung ändern ...
+    und neue Komponenten hinzufügen ... einen ganz neuen Typ von IU-Webseite erfinden.
+
+
+    Und dazu noch eine eigene Themenübersicht, Uni-Übersicht und Curriculae-Webseite erschaffen.
+
+
+    Das geht hier ...
 linkText: Mehr
 colorMode: light
 # backgroundImage: img/...
-backgroundColor: "#611469"
-screenImage: img/backgrounds/startingpoints5.jpg
-placeOfWriting: Dahab
+backgroundColor: "#820503"
+screenImage: img/abilities/iu.jpg
+frame: macbook
+placeOfWriting: Ängelsberg
 
 ###################################################################
 # Modal Page
@@ -44,7 +49,7 @@ placeOfWriting: Dahab
 # !Note: You must choose one of the three: text, image, video
 # !Note: To get a new paragraph in a text you need two (!) empty lines
 
-stone: saphire
+stone: jasper
 topicsUp:
   - oneword: ...
     description: > 
@@ -115,6 +120,11 @@ topicsDown:
 
 
 closeButton: Schließen
+
+info:
+  Datum: 	  1. Februar 2017
+  Ort: 		  Berlin
+  Wetter: 	Kalt, nicht gemütlich
 
 # modalTitleSize:         40
 # modalTitleColor:        red

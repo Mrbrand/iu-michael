@@ -9,15 +9,15 @@ image: img/me.jpg
 imagePos: left
 imageSize: 250
 text: >
-    Hinterlasse einen ersten Eindruck von Dir. 
-    <br>Du bist nicht der Abdruck,
+    Programmieren ist der Eingang zu einem Meer von Möglichkeiten, den Gang der heutigen Welt mitzubestimmen.
 
 
-    Du bist nicht der Fuß,  
+    Man kann Programmieren als die neue Gesetzgebung sehen, als persönliche Unabhängigkeitserklärung, als ein Weg mit Millionen von Menschen zusammen zu arbeiten.
+
+
+    Oder als Mittel viel Spaß zu haben ...
     
-
-    Du bist der, der geht.
-action: Was ich kann ...
+action: Ich will programmieren lernen ...
 ref: abilities
 
 # Additional Parameters

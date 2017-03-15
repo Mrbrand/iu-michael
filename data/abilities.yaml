@@ -4,12 +4,12 @@
 # @fontPrimary: 
 # @fontTitle: 	
 
-title: "Was ich kann"
+title: "Programmieren lernen"
 subtitle: > 
-    Hier kannst Du der Beschreibung deiner Tätigkeitsfelder<br>
-    einen kurzen Text voranstellen.<br>
-    Was willst Du deine Leser wissen lassen, bevor sie sich<br>
-    in die Portraits deiner inneren Erfahrungen vertiefen?
+    Du willst interaktive Internet-Anwendungen programmieren? An einem Nachmittag eine Webseite online stellen? Kleine Spiele oder Animationen programmieren? 
+
+
+    Oder überhaupt einmal kennenlernen, was dieses *Programmieren* eigentlich ist.
 imageColumns: 7
 imagePadding: 50
 screenFrame: false

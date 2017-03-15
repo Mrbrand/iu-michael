@@ -11,18 +11,26 @@
 # screenImage:      Image on screen
 # frame:            Frame around screen image 
 
-abilityName: Benenne dein Tätigkeitsfeld
+abilityName: Internet-Anwendungen entwickeln
 description: >
-    Beschreibe das Tätigkeitsfeld, in welchem Du deine Fähigkeiten einsetzt. 
-    Welchen Sinn siehst Du in deinem Tätigkeitsfeld?
+    **Bootstrap** ist eine Erweiterung von **HTML** und **CSS**, die es ermöglicht,
+    professionelle Webseiten für Smartphones, Tablets und große Bildschirme zu entwickeln.
+    **Javascript** ist die verbreitetste Programmiersprache im Netz.
+    **Git** ist das beste Werkzeug für Zusammenarbeit im Internet.
+    **Github** ist der zentrale Platz, an dem freie Software entwickelt wird.
+    Dort kann man inzwischen auch direkt seine Webseiten veröffentlichen. **FreeCodeCamp** ist ein toller Platz,
+    um all das zu lernen.
+
+
+    Dein Weg zum ersten Programmier-Job ...
 
 linkText: Mehr
-colorMode: dark
+colorMode: light
 # backgroundImage: img/...
 backgroundColor: "#13105C"
-screenImage: img/abilities/pencils.jpg
-placeOfWriting: Dahab
-date: 13. Febr. 2017
+screenImage: img/abilities/simon.png
+placeOfWriting: Dahab/Ägypten
+date: 14. März 2017
 
 # titleSize:        40
 titleColor:       "white"
@@ -123,7 +131,7 @@ closeButton: Schließen
 # modalTitleColor:        red
 # modalLineColor:         red
 # modalTopicSize:         34
-modalTopicWidth:        340
+# modalTopicWidth:        340
 # modalTopicColor:        grey
 # modalDescriptionSize:   16
 # modalDescriptionColor:  white

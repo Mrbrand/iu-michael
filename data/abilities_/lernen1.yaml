@@ -1,0 +1,181 @@
+#####################################################################
+# Definition of an Ability
+#
+#################################################################
+# Entry Page
+#
+# abilityName:      The name of the ability, used as title
+# description:      Description of the ability for the front page
+# linkText:         Text of the button
+# backgroundImage:  Background image (you bet ;-)
+# screenImage:      Image on screen
+
+abilityName: Programmieren für (blutige) Anfänger
+description: >
+    Du hast noch nie programmiert, oder alles wieder vergessen?
+    Du willst einfach einmal sehen, was es mit dem Programmieren so auf sich hat?
+    Ein bisschen Spaß haben. Ein kleines Spiel programmieren.
+
+
+    Noch mehr Spaß haben ...
+linkText: Mehr
+colorMode: light
+# backgroundImage: img/...
+backgroundColor: "#611469"
+screenImage: img/abilities/PONG.png
+placeOfWriting: Dahab
+date: 15. März 2017
+
+###################################################################
+# Modal Page
+#
+# All Topics
+#
+# !Important: Make sure that you have always the right amount of
+#             spaces (not tabs!!) in the beginning of each line,
+#             Yaml is very picky.
+#
+# topicsUp:     List with topics that are shown above the screen
+# topicsDown:   List with topics that are shown below the screen
+# oneword:      The word that appears above the screen
+# description:  The text that appears when you hover over the word
+# text:         Text (with images, MarkDown syntax) on the screen
+# image:        An image on the screen
+# video:        A video on the screen
+# closeButton:  Text on close button
+#
+# !Note: You must choose one of the three: text, image, video
+# !Note: To get a new paragraph in a text you need two (!) empty lines
+
+stone: saphire
+topicsUp:
+  - oneword: Ein unbeschriebenenes Blatt
+    description: > 
+      Eine Live-Coding-Umgebung: Links ein leeres Dokument, rechts ein leerer Bidlschirm
+    text: >
+      ![left](img/abilities/khanprogramming.png)
+
+
+
+      Ich öffne den Live-Editor, 10 Augenpaare schauen auf das Projektorbild neben mir.
+      Ein Anfang bei Null. Schöpfung aus dem Nichts.
+      Alle sind dabei: Wenn ich links keinen Text sehe, dann rechts auch nichts in dem Kasten, der den Bildschirm darstellt.
+
+
+      Der erste Befehl: **ellipse** Klammer auf, Klammer zu, Strichpunkt. Weil der Computer das so will.
+      Er ist ein Pedant. Aber auch ein perfekt gehorchender Hund. Die Ellipse erscheint wie von Zauberhand.
+
+
+      Dann die *Parameter*: Der Computer muss wissen, wohin und wie groß er die Ellipse zeichnen soll. Ich gehe Schritt für Schritt.
+      Ich habe alle dabei. Die ersten wollen selbst tippen. Noch kurz warten, schauen, noch ein paar Infos mehr.
+
+
+      Und dann: Los!
+  - oneword: Es geht!
+    description: Ein Computer-Programm besteht im Westenlichen aus Freude.
+    text: >
+      ![right](img/abilities/ka.png)
+
+
+      „YES!!!“ ruft es von einem Computer. Eine geballte Faust. Der Computer hat etwas gemacht, was er bisher nicht gemacht hat ...
+      Und was gewollt war.
+
+
+      Ich denke: „Freude ist Freude, egal durch was sie erzeugt wird. Freude erhebt. Gebiert die Freiwilligkeit.
+      Freude hilft dem Erinnern. Freude ist Lernen.“
+
+
+      Die Freude erreicht mich. Ich kann mich mitfreuen. Diese Freude ist der Geburtshelfer für das Helfen.
+      Alle Programmierer, die ich kenne, helfen gerne.
+  - oneword: Es geht nicht!!
+    description: Der Computer macht nicht, was ich will, sondern was ich ihm sage.
+    text: >
+      Der Computer ist erbarmungslos. Ich starre auf mein Programm. 10 Schüler schauen mir zu. Ich verstehe nicht, warum. 
+      Es ist fällt mir schwer zu denken, wenn alle zuschauen.
+
+
+      Ein Schüler kommt an einer Stelle nicht weiter. Er dreht sich hilfesuchend zu mir.
+      Hebt die Hände und mir anzudeuten, dass der Computer sich gerade unsinnig verhält.
+      Aber das tut er nicht. Er macht genau, was man ihm sagt.
+
+
+      ![left](img/abilities/ka-putt.png)
+      Meistens ist es ein Fehler im eigenen Programm, manchmal im darunterliegenden System.
+      Auch dann macht der Computer, was man ihm sagt.
+      Er macht das, was der oder die geschrieben hat, der das darunterliegende System gemacht hat.
+
+
+      Der Computer hat immer recht.
+
+
+      SHIT ...
+  - oneword: Rätsel, Überraschung, Artefakt
+    description: Der Computer macht genau(!), was ich ihm sage.
+    video: video/abilities/surprise.mp4
+  - oneword: Verzweiflung
+    description: Computer sind nicht bestechlich. Man kann ihnen nicht drohen. Sie sind sie selbst, egal was passiert.
+    text: >
+      
+
+      Es ist ein normaler, wiederkehrender Zustand beim Programmieren, dass man verzweifelt.
+      Alle Programmierer kennen das, auf jeder Ebene des Könnens.
+      Das Einzige, was sich über die Zeit ändert ist das Selbstvertrauen, dass man über die Verzweiflung hinwegkommt,
+      egal was passiert. Programmierer haben dieses Vertrauen in der Regel.
+
+
+      Wie kann ich Verzweiflung in eine Herausforderung verwandeln?
+      In einen frechen Blick des Computers, der mich auffordert, das Unmögliche zu schaffen?
+      Ich habe das noch nie gemacht. (Vielleicht habe ich es schon einmal gemacht und vergessen,
+      dann ist es möglicherweise umso schmerzhafter.)
+
+
+      Bevor es zu einer solchen Situation kommt, gibt es immer noch Stackoverflow, oder Gitter, oder ein Freund, den man direkt fragen kann.
+      Aber wenn alles nichts hilft? Die Lösung kommt ... Aber das ist nicht das Wesentliche.
+      Das Wesentliche ist, was man auf der Suche alles lernt: Je unmöglicher die Lösung erscheint, umso intensiver das Erlebnis, umso bleibender das Lernen.
+
+
+      Diese Momente sind es, wo wir programmieren lernen. Verzweiflung ist Lernen.
+
+topicsDown:
+  - oneword: Spielen! Spielen! Spielen!
+    description: Der Computer macht nicht, was ich will, sondern was ich ihm sage.
+    text: >
+      Der Computer ist erbarmungslos. K
+  - oneword: Helfen! Helfen! Helfen!
+    description: Helfen macht Spaß! Helfen gibt Vertrauen! Helfen ist das Wesen des Programmierens
+    text: >
+      Ich glaube nicht, dass es etwas Besseres gibt, um Zusammenarbeit zu lernen, als Programmieren zu lernen.
+      Oder generell etwas Technisches. Zumindest kenne ich nichts. Es gibt so viel Bedarf an Hilfe, so viel Verzweiflung,
+      so viel Dankbarkeit -- 
+      obwohl diese überhaupt nicht wesentlich ist, manche Webseiten haben Funktionen, die es unmöglich machen Danke, Thanks, Thx etc. zu sagen,
+      weil das nur das Wesentliche stört. Das Wesentliche ist die Freude, das Weitermachen können, und das erreicht beide Seiten. Kein Danke nötig.
+
+
+      Das Programmieren von Freier Software hat in den letzten 30 Jahren eine ganze Kultur der Zusammenarbeit hervorgebracht.
+      Ich glaube, dass diese Kultur der Zusammenarbeit Beispielhaftes für alle anderen Bereiche unserer Kultur enthält.
+      Plätze wie Stackoverflow, Github, FreeCodeCamp und Codepen.io sind Treffpunkte, Zentren der Zusammenarbeit, Quelle von Selbstvertrauen.
+
+
+      Geld wird in der westlichen Kultur als Grundlage der eigenen Unabhängigkeit gesehen.
+      Eine alternative Grundlage ist das Programmieren, die Gesetzgebung der Zukunft, in einer Welt, die immer mehr von Computern bestimmt wird.
+
+
+closeButton: Schließen
+
+# modalTitleSize:         40
+# modalTitleColor:        red
+# modalLineColor:         red
+# modalTopicSize:         34
+# modalTopicWidth:        280
+# modalTopicColor:        grey
+# modalDescriptionSize:   17
+# modalDescriptionColor:  white
+# modalButtonSize:        60
+# modalButtonColor:       grey
+# modalWeatherSize:       14
+# modalWeatherColor:      white
+# modalTextSize:          24      # Use <h3> tag in the md text for headlines
+# modalTextColor:         green
+# modalImagePadding:      20
+# modalImageSize:         400
+# modalImageOpacity:      100, 100, 100, 0.05   # First three values red, green, blue, last opacity

@@ -10,12 +10,15 @@
 # backgroundImage:  Background image (you bet ;-)
 # screenImage:      Image on screen
 
-abilityName: Kommunikation als Kunst
+abilityName: „Zaubern“ mit Webseiten
 description: >
-    Alles ist Kommunikation.
-    Nichts kann sich in der Welt verändern, außer es verändert sich in unserem Bewusstsein:
-    in der Kommunikation mit uns, mit anderen und mit der Welt.
-    Jeder Konflikt, jede Beziehung, jedes Ziel ist eine Aufforderung, uns zu ändern, einen Schritt weiter zu gehen.
+    Du brauchst für ein Projekt, für einen Freund oder einen Kunden eine Webseite, super schnell.
+    Aber trotzdem schön. Sie soll auch auf Smartphones gut aussehen und erweiterbar sein.
+    Auch schnell zu ändern... Am besten in 30 Minuten.
+
+
+    Auf geht's ...
+
 linkText: Mehr
 colorMode: light
 # backgroundImage: img/...
