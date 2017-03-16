@@ -61,66 +61,84 @@ textColor:        "white"
 # !Note: You must choose one of the three: text, image, video
 # !Note: To get a new paragraph in a text you need two (!) empty lines
 
-stone: saphire
+stone: jasper
 topicsUp:
-  - oneword: Gib deiner Erfahrung eine Überschrift.
+  - oneword: Nummer Eins in Github
     description: > 
-      Charakterisiere hier skizzenhaft das Umfeld und den Kontext, in welchem Du diese Erfahrung gemacht hast.
+      Nicht viele Projekte schaffen es auf Platz 1 bei Github, dem zentralen Sammelpunkt für freie Software. FreeCodeCamp ist Nr 1.
     text: >
-      <h3>Erlebnisse</h3>
-      ![left](img/backgrounds/bg-ability2.jpg "This text appears when hovering over the image")
+      ![left](img/abilities/fcc-trending.png)
 
 
-
-      Portraitiere hier eine deiner Erfahrungen, die Du in deinem Tätigkeitsfeld gemacht hast. 
-      Schreibe aus deiner eigenen Perspektive so, dass andere deine Erfahrung nachvollziehen können.
-      Richte deine Aufmerksamkeit auf das, was in Dir geschehen ist und lege den Schwerpunkt des Portraits
-      auf das, was andere von Außen nicht sehen können, weil es sonst in Dir verborgen bleibt.
-      ![right](img/backgrounds/bg-ability1.jpg "This text appears when hovering over the image")
+      Aus reiner Neugier schaute ich vor einiger Zeit, welche Projekte gerade in Github besonders gefragt sind.
+      Ich war super überrascht, dass eine Online-Programmier-Uni mit weitem Vorsprung auf Platz 1 stand.
+      Ich schaute näher hin.
 
 
+      Das Projekt gab es ein wenig länger als zwei Jahre, es hatte 600.000 Registrierungen, 200.000 Github-Stars,
+      über 2.000 hatten das erste von vier Zertifikaten erworben und über 2000 Programmierer hatten einen neuen Job.
+      Ich dachte: Wow, das ist Dynamik. Heute, zwei Monate später sind es 800.000, 240.000, 4100 und 4000.
 
-      Du kannst für dein Portrait verschiedene Medien verwenden, die Dir für deinen Zweck passend erscheinen.
-      Schreibe z. Bsp. einen Text, mache Fotos, Videos oder Bilder. Oder Du baust Musik in dein Portrait ein, 
-      welche deine Erfahrung nachvollziehbar macht.
 
-  - oneword: Viele
-    description: Wenn man tut, was man gerne tut und gut kann, ... 
-    image: img/abilities/programming1.png
-  - oneword: weitere
-    description: dann trifft man auf wiederkehrende innere Erlebnisse.
-    video: video/image_to_playground.mp4
-  - oneword: Erlebnisse
-    description: Sie stehen für den Weg, den man geht.
-    video: video/image_to_playground.mp4
+      Drei Jungs bringen zusammen mit vielen freiwilligen Helfern das Projekt voran.
+      Sie wollen keine Werbung, keine Spenden und finanzieren sich über ihren Shop. Echte freie Software. Was kann man dort lernen?
+
+
+      HTML, CSS, Javascript, React, D3, nodejs, Express ... viele Dinge, die auch für große Websites eingesetzt werden.
+      Wow, wow, wow. Das klang richtig praktisch. Ich beschloss sofort das erste Zertifikat zu machen.
+
+  - oneword: Learning by Doing
+    description: FreeCodeCamp bietet keine strukturierte Theorie, keine Erklärungen, sondern Herausforderungen. Von Anfang an ...
+    text: >
+
+
+      Super einfacher Einstieg. Gut, ich habe vorher schon ziemlich viel in HMTL und CSS gemacht, aber es war trotzdem spannend.
+      Welche Reihenfolge, welche Fragestellungen. Und es gab doch überall kleine Dinge, die ich noch nicht kannte.
+      Ich dachte: Es ist auf jedem Level gut, einem anderen über die Schulter zu schauen, wie er das macht.
+
+
+      ![right](img/abilities/yourock.png)
+      Und von Anfang an war es nicht eine theoretische, strukturierte Vorgehensweise, wie man das aus der Schule kennt, nein, es ist:
+      Hier, mach das! Versuch das! Das geht so, und jetzt probier daraus das zu machen. Von Anfang an tun.
+      Gut, man kann sich die eine oder andere Aufgabe durch Logik erschließen, ohne dass man versteht, was man macht.
+      Aber niemand hindert einen, alles auch verstehen zu wollen.
+
+
+      Und immer wieder: Yes! You did it! You rock! etc. 60 mal in den ersten 5 Stunden.
+      Man kann sich messen, es sind keine Prüfungen, man bekommt ein Gefühl, was man kann. Dass man etwas kann.
+
+  - oneword: Live Coding
+    description: FreeCodeCamp führt in die Verwendung von tollen Tools ein. Z.B. codepen 
+    video: video/abilities/calc.mp4
+
+  - oneword: Schnelle Hilfe
+    description: "Read-Search-Ask: Die Aufgabe lesen, im Internet suchen und dann zu Gitter!"
+    text: >
+      ![left](img/abilities/gitter.png)
+      
+
+      Programmieren im Internet heißt zusammenarbeiten. Wenn man bei FreeCodeCamp nicht weiterkommt gilt die Regel: Read-Search-Ask. Lies noch einmal die Aufgabenstellung und die Tipps,
+      dann such im Internet nach einer Lösung und wenn da nichts ist, dann frage: Zunächst bei Gitter.
+
+
+      Gitter ist ein Chat-Tool. Soweit nichts Neues. Ich schaue mir das an. Leute stellen Fragen, posten Code, andere antworten.
+      Oh! Sehr schnell das Ganze. Ich versuche eine Frage zu beantworten, aber bis ich fertig getippt habe, hat jemand anders schon
+      geantwortet. Puhh. Also schneller andtworten. Ich lege mich auf die Lauer für die nächste Frage. Da! Ok. Jemand postet Code und eine Frage.
+      Ich schaue mir das an. Das Problem kenne ich. Ich schreibe seinen Namen und das Problem. Erster! Er antwortet mit Thanks!
+      Und das Computer-Programm gibt mir automatisch einen "Brownie Punkt".
+
+
+      Hier wird "Thanks" in eine substantielle Wertschätzung umgemüntzt. Communities sind verschieden, denke ich. Ok.
+      Aber es scheint zu funktionieren. Ich habe mich über den Punkt gefreut.
+      Nicht, dass ich deswegen helfen würde. Nur nett, dass es vermerkt wird.
+    modalTextSize: 16
+
+  - oneword: Projekte!
+    description: Eine Aufgabe, die man so noch nie gemacht hat
+    text: >
+      ...
 
 topicsDown:
-  - oneword: Auch in der
-    description: ...
-    text: >
-      <h3>Ein schöner Titel</h3>
-
-
-      DOWN **Lorem ipsum dolor sit amet**, consectetur adipisicing elit.
-      Quos modi in tenetur vero voluptatum sapiente dolores eligendi nemo iste ea.
-      Omnis, odio enim sint quam dolorum dolorem. Nostrum, minus, ad.
-
-
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-      Quos modi in tenetur vero voluptatum sapiente dolores eligendi nemo iste ea.
-      Omnis, odio enim sint quam dolorum dolorem. Nostrum, minus, ad.
-
-  - oneword: unteren Leiste.
-    description: ...
-    text: >
-      DOWN **Lorem ipsum dolor sit amet**, consectetur adipisicing elit.
-      Quos modi in tenetur vero voluptatum sapiente dolores eligendi nemo iste ea.
-      Omnis, odio enim sint quam dolorum dolorem. Nostrum, minus, ad.
-
-
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-      Quos modi in tenetur vero voluptatum sapiente dolores eligendi nemo iste ea.
-      Omnis, odio enim sint quam dolorum dolorem. Nostrum, minus, ad.
 
 
 closeButton: Schließen
