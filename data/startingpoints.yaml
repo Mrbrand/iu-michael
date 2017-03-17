@@ -1,32 +1,49 @@
 title: Startpunkte
-subtitle: Du willst etwas Neues beginnen? Hier sind einige Startpunkte, die ich für mich gefunden habe.
+subtitle: >
+    Auf **Camps** kannst du mit anderen Leuten zusammen Projekte voranbringen, neue Technologien ausprobieren, philosophieren ...
+
+
+    Bei **Treffen** gibt es Live-Coding, Erfahrungsberichte und gemeinsames programmieren.
+
+
+    **Coaching** kann dir einen schnelleren und tieferen Einstieg ermöglichen.
 
 filters: [
-  University,
-  Programmieren,
-  Ideen,
+    Camps,
+    Treffen,
+    Coaching,
+    Online-Kurse,
+    Experimente,
+    Philosophie
 ]
 all: Alle
 
 elements:
-  - image: img/backgrounds/startingpoints1.jpg
-    captionTitle: A Template for the first steps
-    captionCategory: Invisible University
+  - image: img/startingpoints/iu.jpg
+    captionTitle: "IU Installationsparty"
+    captionCategory: "Komm und bau dir deine eigene IU-System."
     filters:
-      - University
+      - Camps
     content: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
-    video: video/image_to_playground.mp4
+      Ein Samstag-Nachmittag mit kurzer Vorstellung des IU-Systems, dann Laptops aufklappen und installieren.
+      Zwischendurch ein wenig Live-Coding mit dem Beamer: Wie kann man eine IU-Seite umbauen, erweitern, neu gestalten? 
+
+      ### Nächste Termine
+
+
+      ### Anmelden
+
+      <<< Bild von einem Nachmittag >>>
 
     # Backgorund color and text color can be changed for each element, but also for all together further below with the global attributes
     # panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity
     # panelColor:             white
 
-  - image: img/startingpoints/sp_freecodecamp.png
+  - image: img/startingpoints/fcc-university.png
     captionTitle: FreeCodeCamp
-    captionCategory: Programmieren
+    captionCategory: Learn to code and help nonprofits
     filters:
-      - Programmieren
+      - Online-Kurse
     content: >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
     video: video/image_to_playground.mp4
@@ -34,11 +51,48 @@ elements:
     # panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity
     # panelColor:             white
 
+  - image: img/startingpoints/fcc-meetup.png
+    captionTitle: FreeCodeCamp Meetup
+    captionCategory: Live-Coding, Erfahrungsaustausch, Tipp & Tricks
+    filters:
+      - Treffen
+    content: >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
+    video: video/image_to_playground.mp4
+
+    # panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity
+    # panelColor:             white
+
+  - image: img/startingpoints/fcc-camp.png
+    captionTitle: FreeCodeCamp Camp
+    captionCategory: Ein Wochenende zusammen coden und spielen und lernen und ...
+    filters:
+      - Camps
+    content: >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
+    video: video/image_to_playground.mp4
+
+    # panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity
+    # panelColor:             white
+
+  - image: img/startingpoints/fcc-coaching.png
+    captionTitle: FreeCodeCamp - Coaching
+    captionCategory: Intensive Lernbegleitung für 1 bis 3 Leute
+    filters:
+      - Coaching
+    content: >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
+    video: video/image_to_playground.mp4
+
+    # panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity
+    # panelColor:             white
+
+
   - image: img/startingpoints/sp_khanacademy.png
     captionTitle: Khan-Academy
-    captionCategory: Programmieren
+    captionCategory: Programmieren lernen. Ideal für 10 bis 14 Jahre.
     filters:
-      - Programmieren
+      - Online-Kurse
     content: >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
     video: video/image_to_playground.mp4
@@ -48,9 +102,9 @@ elements:
 
   - image: img/startingpoints/sp_spielplatz.png
     captionTitle: Der Computer-Spielplatz
-    captionCategory: Programmieren
+    captionCategory: Die erste Smartphone-App in 2 Stunden, Programmieren mit eigenen Bildern und Sound
     filters:
-      - Programmieren
+      - Experimente
     content: >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
     video: video/image_to_playground.mp4
@@ -60,9 +114,9 @@ elements:
 
   - image: img/startingpoints/sp_codecademy.png
     captionTitle: Codecademy
-    captionCategory: Programmieren
+    captionCategory: Programmieren lernen (wirklich!)
     filters:
-      - Programmieren
+      - Online-Kurse
     content: >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
     video: video/image_to_playground.mp4
@@ -70,11 +124,11 @@ elements:
     # panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity
     # panelColor:             white
 
-  - image: img/backgrounds/startingpoints4.jpg
+  - image: img/startingpoints/sp_originalplay.png
     captionTitle: Original Play - Ursprüngliches Spiel
-    captionCategory: Kommunikation
+    captionCategory: Miteinander spielen ist Vertrauen schaffen, unbesiegbar werden
     filters:
-      - Kommunikation
+      - Experimente
     content: >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
     video: video/image_to_playground.mp4
@@ -82,11 +136,11 @@ elements:
     # panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity
     # panelColor:             white
 
-  - image: img/backgrounds/startingpoints5.jpg
+  - image: img/startingpoints/sp_9.jpg
     captionTitle: 9 Grundgedanken
-    captionCategory: Ideen
+    captionCategory: Über die Befreiung des Internets
     filters:
-      - Ideen
+      - Philosophie
     content: >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
     video: video/image_to_playground.mp4
@@ -94,11 +148,12 @@ elements:
     # panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity
     # panelColor:             white
 
-  - image: img/backgrounds/startingpoints6.jpg
-    captionTitle: Primärwoche in Dahab
-    captionCategory: Kommunikation
+  - image: img/startingpoints/sp_id.png
+    captionTitle: Initiative Demokratie
+    captionCategory: Wir brauchen heute eine neue Stufe der Demokratie
     filters:
-      - Kommunikation
+      - Experimente
+      - Philosophie
     content: >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
     video: video/image_to_playground.mp4
@@ -106,11 +161,11 @@ elements:
     # panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity
     # panelColor:             white
 
-  - image: img/backgrounds/startingpoints7.jpg
-    captionTitle: 95 Gedankenfehler der westlichen Kultur
-    captionCategory: Ideen
+  - image: img/startingpoints/sp_sencoach.jpg
+    captionTitle: Computer-Coaching für Senioren
+    captionCategory: Unterstützung bei alltäglichen Computer-Problemen
     filters:
-      - Ideen
+      - Coaching
     content: >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
     video: video/image_to_playground.mp4
@@ -118,12 +173,11 @@ elements:
     # panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity
     # panelColor:             white
 
-  - image: img/backgrounds/startingpoints8.jpg
+  - image: img/startingpoints/sp_2064.png
     captionTitle: 2064 - Die Geschichte der Cypherpunks
     captionCategory: Kommunikation
     filters:
-      - Ideen
-      - Kommunikation
+      - Philosophie
     content: >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
     video: video/image_to_playground.mp4
@@ -132,10 +186,10 @@ elements:
     # panelColor:             white
 
   - image: img/backgrounds/startingpoints9.jpg
-    captionTitle: 2064 - Das Spiel
-    captionCategory: Ideen
+    captionTitle: CryptoParty
+    captionCategory: Privatsphäre ist ein Menschenrecht - hol es dir zurück!
     filters:
-      - Ideen
+      - Treffen
     content: >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
     video: video/image_to_playground.mp4

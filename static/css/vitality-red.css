@@ -581,7 +581,6 @@ aside.cta-quote .panel {
   text-align: center;
 }
 .portfolio-carousel .item img {
-  --border: 3px solid white;
   box-shadow: 5px 5px 55px -13px rgba(0, 0, 0, 0.63);
 }
 .portfolio-carousel .item .project-details {
@@ -924,6 +923,12 @@ aside.cta-quote .panel {
   padding: 30px;
   text-align: left;
 }
+.device-mockup .text p,
+.device-mockup .text div {
+  font-size: 18px;
+  line-height: 24.75px;
+  margin: 0 0 9px;
+}
 .device-mockup .text img {
   width: 400px;
   clear: both;
@@ -1050,15 +1055,6 @@ aside.cta-quote .panel {
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
 }
-#portfoliolist .mix .portfolio-wrapper .overlay {
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 100%;
-  width: 100%;
-  background-color: #1B073D;
-  opacity: 0.5;
-}
 #portfoliolist .mix .portfolio-wrapper .caption {
   position: absolute;
   width: 100%;
@@ -1104,7 +1100,7 @@ aside.cta-quote .panel {
   max-width: 920px;
   border: 0.2vw solid #BA4C3D;
   border-radius: 1vw;
-  background-color: rgba(182, 76, 61, 0.3);
+  background-color: rgba(250, 216, 212, 0.6);
   margin: 2vw auto;
   overflow: hidden;
 }
@@ -1112,6 +1108,11 @@ aside.cta-quote .panel {
   background-color: #BA4C3D;
   color: white;
   padding: 2vw 0vw;
+}
+#grid-panel h3 {
+  background-color: #BA4C3D;
+  color: white;
+  padding: 1.5vw 0vw;
 }
 #grid-panel p {
   font-size: 1.5vw;

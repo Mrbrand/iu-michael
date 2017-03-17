@@ -62,11 +62,12 @@ topicsUp:
       Alle sind dabei: Wenn ich links keinen Text sehe, dann rechts auch nichts in dem Kasten, der den Bildschirm darstellt.
 
 
-      Der erste Befehl: **ellipse** Klammer auf, Klammer zu, Strichpunkt. Weil der Computer das so will.
-      Er ist ein Pedant. Aber auch ein perfekt gehorchender Hund. Die Ellipse erscheint wie von Zauberhand.
+      Der erste Befehl: **ellipse** Klammer auf, Klammer zu, Strichpunkt. Alles muss dabei sein, weil der Computer das so will.
+      Er ist ein Pedant. Aber auch ein perfekt gehorchender Hund.
 
 
-      Dann die *Parameter*: Der Computer muss wissen, wohin und wie groß er die Ellipse zeichnen soll. Ich gehe Schritt für Schritt.
+      Dann die *Parameter*: Der Computer muss wissen, wohin und wie groß er die Ellipse zeichnen soll. Die Ellipse erscheint wie von Zauberhand. 
+      Ich gehe Schritt für Schritt weiter.
       Ich habe alle dabei. Die ersten wollen selbst tippen. Noch kurz warten, schauen, noch ein paar Infos mehr.
 
 
@@ -174,7 +175,7 @@ closeButton: Schließen
 # modalButtonColor:       grey
 # modalWeatherSize:       14
 # modalWeatherColor:      white
-# modalTextSize:          24      # Use <h3> tag in the md text for headlines
+# modalTextSize:          18      # Use <h3> tag in the md text for headlines
 # modalTextColor:         green
 # modalImagePadding:      20
 # modalImageSize:         400

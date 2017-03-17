@@ -9,15 +9,15 @@ image: img/me.jpg
 imagePos: left
 imageSize: 250
 text: >
-    Programmieren ist der Eingang zu einem Meer von Möglichkeiten, den Gang der heutigen Welt mitzubestimmen.
+    Programmieren ist der Eingang zu unendlich vielen Möglichkeiten, den Gang der heutigen Welt mitzubestimmen.
 
 
-    Man kann Programmieren als die neue Gesetzgebung sehen, als persönliche Unabhängigkeitserklärung, als ein Weg mit Millionen von Menschen zusammen zu arbeiten.
+    Man kann Programmieren als neue Gesetzgebung sehen, als persönliche Unabhängigkeitserklärung, als ein Weg mit Millionen von Menschen zusammenzuarbeiten.
 
 
-    Oder als Mittel viel Spaß zu haben ...
+    Oder als Weg viel Spaß zu haben ...
     
-action: Ich will programmieren lernen ...
+action: Willst du programmieren lernen?
 ref: abilities
 
 # Additional Parameters
